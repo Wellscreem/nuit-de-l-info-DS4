@@ -1,0 +1,6 @@
+-mettre en place l'architecture nécessaire pour stocker les informations et
+qui pourront être interrogées pour l'affichage ou visualisation
+
+-intégrer une partie communautaire permettant à toutes personnes ayant connaissance de sauvées,
+de venir alimenter la base de données que vous allez créer
+
