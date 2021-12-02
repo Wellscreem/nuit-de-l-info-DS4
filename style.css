@@ -1,0 +1,39 @@
+html{
+    background-color: bisque;
+    text-align: center;
+}
+
+main{
+    text-align: center;
+    background-color: rgb(197, 197, 128);
+    border: 2px black;
+    padding: 1%;
+}
+
+input{
+    color: grey;
+    background-color: bisque;
+    width: 60%;
+    padding: 1%;
+}
+
+button #haut{
+    position: fixed;
+    background-color: bisque;
+    right: 0px;
+    top: 0px;
+}
+
+button #bas{
+    position: fixed;
+    background-color: bisque;
+    right: 0px;
+    top: 0px;
+}
+
+button #plus{
+    position: fixed;
+    background-color: bisque;
+    right: 0px;
+    top: 0px;
+}
