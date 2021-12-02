@@ -10,7 +10,8 @@ de venir alimenter la base de données que vous allez créer
 
 IDEES POUR LES DEFIS:
 -Cybermamie: boutton +, scroll
--MAUVAIS CODE: L'inspiration avec Ook! 
+-MAUVAIS CODE: L'inspiration avec Ook! + https://fr.wikipedia.org/wiki/Brainfuck
 
 SITE POUR APPRENDRE PHP:
 https://www.w3schools.com/php/
+
