@@ -1,0 +1,8 @@
+HAI 1.2
+    I HAS A FISH ITZ "NEMO"
+    I HAS A CAT ITZ "KET"
+    I HAS A EAT
+    EAT R DIFF OF FISH AN CAT
+    
+
+KTHXBYE
