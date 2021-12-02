@@ -1,5 +1,7 @@
 -mettre en place l'architecture nécessaire pour stocker les informations et
 qui pourront être interrogées pour l'affichage ou visualisation
+        - recolte le max des données avec les sites https://sauveteurdudunkerquois.fr/57tro-0250b/ et https://sauveteurdudunkerquois.fr/FICP-1081H/
+        - mettre cette information dans excel
 
 -intégrer une partie communautaire permettant à toutes personnes ayant connaissance de sauvées,
 de venir alimenter la base de données que vous allez créer
