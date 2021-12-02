@@ -15,3 +15,7 @@ IDEES POUR LES DEFIS:
 SITE POUR APPRENDRE PHP:
 https://www.w3schools.com/php/
 
+
+COMMENT RECUPERER LES DONNEES:
+https://wydden.com/10-outils-pour-scraper-des-donnees-sans-coder-ou-presque/
+
