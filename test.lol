@@ -1,4 +1,5 @@
 HAI 1.2
+    BTW pour faire tourner le code, le copier coller sur https://www.tutorialspoint.com/execute_lolcode_online.php puis presser le bouton executer
     I HAS A PERFECT_IDIOT ITZ A NUMBAR
     PERFECT_IDIOT R 3.0000000000000
     I HAS A CTR ITZ 2.0000000000000
