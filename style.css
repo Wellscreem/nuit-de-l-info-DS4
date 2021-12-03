@@ -5,21 +5,25 @@ html{
 
 a{
     background-color: rgb(207, 140, 40);
-    text-align: center;
+    align-items: center;
     display: block;
+    text-decoration: none;
+    color: white;
+    width: 20%;
 }
 
 main{
-    text-align: center;
+    align-items: center;
     background-color: rgb(197, 197, 128);
     border: 2px black;
     padding: 1%;
+    display: flex;
 }
 
 input{
     color: grey;
     background-color: bisque;
-    width: 60%;
+    width: 50%;
     padding: 1%;
 }
 
@@ -27,29 +31,20 @@ button{
     cursor: pointer;
 }
 
-button #haut{
-    position: fixed;
-    background-color: bisque;
-    right: 0px;
-    top: 0px;
-}
 
-button #bas{
-    position: fixed;
-    background-color: bisque;
-    right: 0px;
-    top: 0px;
-}
-
-button #plus{
-    position: fixed;
-    background-color: bisque;
-    right: 0px;
-    top: 0px;
-}
-
-main div{
+main > div{
     flex-direction: column;
-    width: 25%;
-    border-radius: 25%;
+    width: 50%;
+    background-color: rgb(197, 197, 128);
+    align-items: center;
+    text-align: center;
+}
+
+#search-bar{
+    width: 60%;
+    margin: 1%;
+}
+
+.box{
+    width: 5%;
 }
