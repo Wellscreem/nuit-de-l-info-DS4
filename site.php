@@ -21,18 +21,12 @@
 			<input type="text" placeholder="Recherche" id="search-bar">
 			<button>Soumettre</button>
 			<?php
-				$servername = "https://phpmyadmin.alwaysdata.com/";
-				$username = "fievet_";
-				$password = "WaawHxLr34";
-
-				// Create connection
-				$conn = new mysqli($servername, $username, $password);
-				// Check connection
-				if ($conn->connect_error) {
-				die("Connection failed: " . $conn->connect_error);
-				}
+				
+				
+				$user = "root";
+				$pass = '';
+				$db = new PDO ('mysql:host=mysql-fievet.alwaysdata.net;dbname=fievet_sauvetage', $user, $pass);
 			
-				$conn->close();
 			?>
 
 		</main>
