@@ -25,6 +25,21 @@
 		<main>
 			<input type="text" placeholder="Recherche">
 			<button>Soumettre</button>
+			<?php
+				$servername = "https://phpmyadmin.alwaysdata.com/";
+				$username = "fievet_";
+				$password = "WaawHxLr34";
+
+				// Create connection
+				$conn = new mysqli($servername, $username, $password);
+				// Check connection
+				if ($conn->connect_error) {
+				die("Connection failed: " . $conn->connect_error);
+				}
+			
+				$conn->close();
+			?>
+
 		</main>
 
 		<footer>
