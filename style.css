@@ -32,7 +32,7 @@ button{
 }
 
 
-main > div{
+main>div{
     flex-direction: column;
     width: 50%;
     background-color: rgb(197, 197, 128);
