@@ -23,8 +23,8 @@
 			<?php
 				
 				
-				$user = "root";
-				$pass = '';
+				$user = "fievet_";
+				$pass = 'WaawHxLr34';
 				$db = new PDO ('mysql:host=mysql-fievet.alwaysdata.net;dbname=fievet_sauvetage', $user, $pass);
 			
 			?>
