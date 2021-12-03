@@ -15,15 +15,10 @@
 			<br>
 			<div>Quelle recherche voulez-vous faire ?</div>
 			<br><br>
-			<div>
-				<button id="haut">Haut</button>
-				<button id="bas">Bas</button>
-				<button id="plus">+</button>
-			</div>
 		</header>
 
 		<main>
-			<input type="text" placeholder="Recherche">
+			<input type="text" placeholder="Recherche" id="search-bar">
 			<button>Soumettre</button>
 		</main>
 
