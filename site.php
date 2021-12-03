@@ -8,11 +8,19 @@
 
 	<body>
 		<header>
-
+			<img src="" alt="image_de_fond">
+			<div>Quelle recherche voulez-vous faire ?</div>
+			<br><br>
+			<div>
+				<button id="haut">Haut</button>
+				<button id="bas">Bas</button>
+				<button id="plus">+</button>
+			</div>
 		</header>
 
 		<main>
-
+			<input type="text" placeholder="Recherche">
+			<button>Soumettre</button>
 		</main>
 
 		<footer>
