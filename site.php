@@ -22,10 +22,23 @@
 			<button>Soumettre</button>
 			<?php
 				
-				
+				//$user = "root";
+				//$pass = '';
 				$user = "fievet_";
 				$pass = 'WaawHxLr34';
+
+			try {
 				$db = new PDO ('mysql:host=mysql-fievet.alwaysdata.net;dbname=fievet_sauvetage', $user, $pass);
+				foreach($db->query('SELECT * FROM articles') as $row);
+				{
+					print_r($row);
+				}
+			} catch (PDOException $e){
+				print "Erreur :" . $e->getMessage() . "<br/>";
+				die;
+			}
+
+				
 			
 			?>
 
