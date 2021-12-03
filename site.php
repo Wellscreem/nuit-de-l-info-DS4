@@ -8,7 +8,11 @@
 
 	<body>
 		<header>
+			<div class="menu">
+				<div><a href="connexion.php">Connexion/Inscription</a></div>
+			</div>
 			<img src="" alt="image_de_fond">
+			<br>
 			<div>Quelle recherche voulez-vous faire ?</div>
 			<br><br>
 			<div>

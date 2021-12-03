@@ -3,6 +3,12 @@ html{
     text-align: center;
 }
 
+a{
+    background-color: rgb(207, 140, 40);
+    text-align: center;
+    display: block;
+}
+
 main{
     text-align: center;
     background-color: rgb(197, 197, 128);
@@ -15,6 +21,10 @@ input{
     background-color: bisque;
     width: 60%;
     padding: 1%;
+}
+
+button{
+    cursor: pointer;
 }
 
 button #haut{
@@ -36,4 +46,10 @@ button #plus{
     background-color: bisque;
     right: 0px;
     top: 0px;
+}
+
+main div{
+    flex-direction: column;
+    width: 25%;
+    border-radius: 25%;
 }
